@@ -1,3 +1,5 @@
+#dbevila1
+#1/12/2017 last major edit
 print ("Enter two prime numbers. (Ex: 2, 3, 5, 7, 11, 13, etc...) ")
 p = int(input("p: "))
 q = int(input("q: "))
